@@ -36,4 +36,4 @@ OOP, Agile, Multithreading, Testing, Systems Analysis & Design
 ---
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/RobinDudeja) | [Email](mailto:robindudeja55@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/robin-dudeja/) | [Email](mailto:dudejar1@udayton.edu)
